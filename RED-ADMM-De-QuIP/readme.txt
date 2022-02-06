@@ -1,4 +1,7 @@
-Sample code of the papers:
+# Download the Quantum adaptive denoiser "De-QuIP" from the following link:
+https://github.com/SayantanDutta95/De-QuIP-Denoising
+
+# Sample code of the papers:
 
 1)	Sayantan Dutta, Nwigbo Kenule Tuador, Jérome Michetti, Bertrand Georgeot,
 	Duong Hung Pham, Adrian Basarab, and Denis Kouamé, "Quantum denoising-based
