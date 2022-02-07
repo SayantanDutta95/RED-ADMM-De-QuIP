@@ -3,6 +3,7 @@ Single image super resolution algorithm RED+ADMM+De-QuIP
 
 # Download the Quantum adaptive denoiser "De-QuIP" from the following link:
 https://github.com/SayantanDutta95/De-QuIP-Denoising
+
 and save denoiser in a folder named as 'De-QuIP' before running the code.
 
 # Sample code of the papers:
