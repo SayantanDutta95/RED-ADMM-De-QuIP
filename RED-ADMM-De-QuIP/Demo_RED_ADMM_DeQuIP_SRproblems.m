@@ -1,28 +1,28 @@
 % Sample code of the papers:
 % 
-% Sayantan Dutta, Nwigbo Kenule Tuador, Jérome Michetti, Bertrand Georgeot,
-% Duong Hung Pham, Adrian Basarab, and Denis Kouamé, "Quantum denoising-based
+% Sayantan Dutta, Nwigbo Kenule Tuador, JÃ©rome Michetti, Bertrand Georgeot,
+% Duong Hung Pham, Adrian Basarab, and Denis KouamÃ©, "Quantum denoising-based
 % super-resolution algorithm applied to dental tomography images", 2022 IEEE 
 % International Symposium on Biomedical Imaging (ISBI), 2022.
 %
-% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé,
+% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis KouamÃ©,
 % "A Novel Image Denoising Algorithm Using Concepts of Quantum Many-Body Theory,"
 % arXiv preprint arXiv(2021).
 %
-% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé,
+% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis KouamÃ©,
 % "Image Denoising Inspired by Quantum Many-Body physics,"
 % 2021 IEEE International Conference on Image Processing (ICIP), 2021,
 % pp. 1619-1623, doi: 10.1109/ICIP42928.2021.9506794.
 %
-% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé,
+% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis KouamÃ©,
 % "Plug-and-Play Quantum Adaptive Denoiser for Deconvolving Poisson Noisy Images",
 % IEEE Access, 2021, vol. 9, pp. 139771-139791, doi: 10.1109/ACCESS.2021.3118608.
 %
-% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé,
+% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis KouamÃ©,
 % "Quantum mechanics-based signal and image representation: Application
-% to denoising," IEEE Open Journal of Signal Processing, vol. 2, pp. 190–206, 2021.
+% to denoising," IEEE Open Journal of Signal Processing, vol. 2, pp. 190â€“206, 2021.
 %
-% Zhao, N., Wei, Q., Basarab, A., Dobigeon, N., Kouamé, D., & Tourneret, J. Y. (2016),
+% Zhao, N., Wei, Q., Basarab, A., Dobigeon, N., KouamÃ©, D., & Tourneret, J. Y. (2016),
 % "Fast Single Image Super-Resolution Using a New Analytical Solution for l_2-l_2 Problems",
 % IEEE Transactions on Image Processing, 25(8), 3683-3697.
 %
@@ -44,7 +44,7 @@
 %
 % Download the Quantum adaptive denoiser "De-QuIP" from the following link:
 % https://github.com/SayantanDutta95/De-QuIP-Denoising
-% and save it in a file name 'De-QuIP' before running the code.
+% and save it in a folder named as 'De-QuIP' before running the code.
 %
 %---------------------------------------------------------------------------------------------------
 %%
